@@ -1,0 +1,5 @@
+include ':lib_threads1'
+include ':lib_autos3'
+include ':lib_Vehiculo'
+include ':app'
+rootProject.name = "Vehiculo"
